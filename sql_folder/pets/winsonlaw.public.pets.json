@@ -1,0 +1,29 @@
+{
+  "columnWidthFontSize" : 11,
+  "columnWidths" : {
+    "Animal_Age" : 122,
+    "Animal_Breed" : 226,
+    "Animal_Color" : 118,
+    "Animal_Name" : 118,
+    "Animal_Sex" : 88,
+    "Animal_Type" : 82,
+    "City" : 250,
+    "Current_Location" : 250,
+    "Date" : 62,
+    "Date_Type" : 72,
+    "Memo" : 250,
+    "State" : 35,
+    "Status" : 73,
+    "Street" : 250,
+    "ZIP" : 43,
+    "id" : 53
+  },
+  "filterVisible" : false,
+  "sortSpecifications" : [
+    {
+      "ascending" : true,
+      "columnName" : "city",
+      "nullsFirst" : false
+    }
+  ]
+}
